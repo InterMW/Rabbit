@@ -1,0 +1,2 @@
+# Rabbit
+Automated rabbitmq configuration
